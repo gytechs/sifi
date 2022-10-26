@@ -4,3 +4,6 @@
 [submodule "meta-riscv"]
 	path = meta-riscv
 	url = https://github.com/gytechs/sifi.git
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = https://github.com/gytechs/sifi.git
